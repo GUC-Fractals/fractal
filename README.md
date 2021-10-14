@@ -14,4 +14,13 @@ your ptoject sturcture should seem like this
     ├── netwon-fractal.py
     └── requirements.txt
  ```
+ The requirements.txt should contaian all the downloaded libraies you have used seperated by new lines
+ 
+ for example 
+  ```bash
+  > cat requirements.txt
+pandas
+matplotlib
+numpy
+```
 If you don't know how to use github please upload it [here](https://drive.google.com/drive/folders/1B8ti_YGyplrgxMo18efDIjSO6VD3jTT_?usp=sharing) 
