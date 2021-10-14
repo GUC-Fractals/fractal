@@ -7,4 +7,11 @@ make a directory by your name and the python file should be the name of the frac
 
 `your-name/fractal-name.py`
 
+your ptoject sturcture should seem like this 
+ ```
+  ibrahim
+    ├── fractal.jpeg
+    ├── netwon-fractal.py
+    └── requirements.txt
+ ```
 If you don't know how to use github please upload it [here](https://drive.google.com/drive/folders/1B8ti_YGyplrgxMo18efDIjSO6VD3jTT_?usp=sharing) 
