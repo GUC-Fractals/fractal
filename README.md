@@ -1,26 +1,29 @@
 # Fractal
-We have a programming assigment proposed by [Dr Rami Younes](https://met.guc.edu.eg/People/Profile.aspx?facId=3253) to write code(preferably `python`) to genterate fractal.
+We have a programming assignment proposed by [Dr Rami Younes](https://met.guc.edu.eg/People/Profile.aspx?facId=3253) to write some code ( preferably in `python` ) to genterate a fractal.
 
-Write your code and make pull request to add it 
 
-make a directory by your name and the python file should be the name of the fractal 
+### Submission Guidelines
+- Write your code and start a pull request.
+- Create a directory with your name
+- Upload your code file (saved with the name of the fractal, e.g. `fractal-name.py`), a screenshot of the result, and requirements.txt in your directory.
+- The requirements.txt should contain all the downloaded libraries you have used seperated by new lines
+  
+  For example 
+   ```bash
+   > cat requirements.txt
+  pandas
+  matplotlib
+  numpy
+  ```
 
-`your-name/fractal-name.py`
 
-your project sturcture should seem like this 
+#### Your project sturcture should look like this 
+ 
  ```
   ibrahim
     ├── fractal.jpeg
     ├── netwon-fractal.py
     └── requirements.txt
  ```
- The requirements.txt should contain all the downloaded libraies you have used seperated by new lines
  
- for example 
-  ```bash
-  > cat requirements.txt
-pandas
-matplotlib
-numpy
-```
-If you don't know how to use github please upload it [here](https://drive.google.com/drive/folders/1B8ti_YGyplrgxMo18efDIjSO6VD3jTT_?usp=sharing) 
+###### If you don't know how to use github please upload your files [here](https://drive.google.com/drive/folders/1B8ti_YGyplrgxMo18efDIjSO6VD3jTT_?usp=sharing) .
