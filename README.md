@@ -7,14 +7,14 @@ make a directory by your name and the python file should be the name of the frac
 
 `your-name/fractal-name.py`
 
-your ptoject sturcture should seem like this 
+your project sturcture should seem like this 
  ```
   ibrahim
     ├── fractal.jpeg
     ├── netwon-fractal.py
     └── requirements.txt
  ```
- The requirements.txt should contaian all the downloaded libraies you have used seperated by new lines
+ The requirements.txt should contain all the downloaded libraies you have used seperated by new lines
  
  for example 
   ```bash
