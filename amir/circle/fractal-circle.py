@@ -1,7 +1,7 @@
 from turtle import *
 
 def draw(size, angle, levels):
-    if levels==0:
+    if levels == 0:
         return
     forward(size)
     right(angle)
